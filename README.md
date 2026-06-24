@@ -56,9 +56,8 @@ Customer-Segmentation-Using-Unsupervised-Learning/
 │
 ├── assignment2.ipynb     # Complete implementation
 ├── report.pdf            # Project report
-├── screenshots/          # Visualizations and outputs
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
